@@ -1,5 +1,11 @@
 # Godot Engine 4 Basic Tricks
 
+## Short Videos
+
+- [Custom UI Components](https://youtu.be/JIuPwhY-3z4)
+- [SVGs, anchor presets and screen alignment](https://youtu.be/EeiYtErgsBc)
+- [UI Themes](https://youtu.be/3D_7qOYGGsY)
+
 ## Dealing with ScrollContainer and sizing issues
 
 ScrollContainers generally have “Clip Contents” set to true.
