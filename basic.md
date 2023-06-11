@@ -6,7 +6,11 @@
 - [SVGs, anchor presets and screen alignment](https://youtu.be/EeiYtErgsBc)
 - [UI Themes](https://youtu.be/3D_7qOYGGsY)
 
-## Dealing with ScrollContainer and sizing issues
+## Custom UI components
+
+It's useful to set `custom_minimum_size` by default on the template itself. This is useful for fixed-size components.
+
+## ScrollContainer and its sizing
 
 ScrollContainers generally have “Clip Contents” set to true.
 
