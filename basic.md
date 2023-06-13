@@ -5,6 +5,7 @@
 - [Custom UI Components](https://youtu.be/JIuPwhY-3z4)
 - [SVGs, anchor presets and screen alignment](https://youtu.be/EeiYtErgsBc)
 - [UI Themes](https://youtu.be/3D_7qOYGGsY)
+  - Currently relying on the "default theme" project setting may be problematic. Prefer setting it on root nodes as explained here: https://ask.godotengine.org/129046/problems-using-a-custom-ui-theme
 
 ## Custom UI components
 
@@ -55,6 +56,8 @@ node.get_viewport().gui_get_focus_owner()
 ## Setting Default Themes
 
 Check “Advanced Settings” and search for “Theme” so you find an option to change the default theme.
+
+- Currently relying on the "default theme" project setting may be problematic. Prefer setting it on root nodes as explained here: https://ask.godotengine.org/129046/problems-using-a-custom-ui-theme
 
 ## SVG upscale
 
