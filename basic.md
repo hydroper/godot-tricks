@@ -74,3 +74,7 @@ Prefer PanelContainer over Panel since items don’t overflow the panel’s bord
 ## Physics friction etc.
 
 Friction, bounceness etc. can be overriden in the physics material.
+
+## Themes
+
+- Check "Show Default" for customizing properties.
