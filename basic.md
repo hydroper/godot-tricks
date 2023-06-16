@@ -78,3 +78,8 @@ Friction, bounceness etc. can be overriden in the physics material.
 ## Themes
 
 - Check "Show Default" for customizing properties.
+
+## Ideal Window Settings
+
+- `stretch_mode = canvas_items`
+- `aspect = keep`
