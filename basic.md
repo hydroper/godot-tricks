@@ -83,3 +83,7 @@ Friction, bounceness etc. can be overriden in the physics material.
 
 - `stretch_mode = canvas_items`
 - `aspect = keep`
+
+## Quality
+
+Enable MSDF for each TrueType font.
