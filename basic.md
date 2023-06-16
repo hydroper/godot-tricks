@@ -86,4 +86,4 @@ Friction, bounceness etc. can be overriden in the physics material.
 
 ## Quality
 
-Enable MSDF for each TrueType font.
+- Enable MSDF for each TrueType font.
