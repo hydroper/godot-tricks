@@ -6,3 +6,5 @@
 - [High-level multiplayer](https://docs.godotengine.org/en/stable/tutorials/networking/high_level_multiplayer.html)
 - [Path2D and PathFollow2D example](https://ask.godotengine.org/142168/godot-4-0-path2d-and-pathfollow2d-example)
 - [`RichTextLabel` vertical alignment](https://ask.godotengine.org/27229/how-to-vertically-align-text-in-a-richtextlabel?show=92485#a92485)
+- Detecting window exit
+  - https://ask.godotengine.org/118242/can-make-game-that-system-will-save-game-before-the-game-close?show=118404#a118404
