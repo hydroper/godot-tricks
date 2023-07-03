@@ -79,6 +79,14 @@ Friction, bounceness etc. can be overriden in the physics material.
 
 - Check "Show Default" for customizing properties.
 
+## Theme Snippets
+
+Overriding looks like this:
+
+```
+label.add_theme_font_size_override("font_size", size)
+```
+
 ## Ideal Window Settings
 
 - `stretch_mode = canvas_items`
